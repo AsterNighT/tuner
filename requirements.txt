@@ -1,0 +1,3 @@
+crepe==0.0.13
+numpy==1.23.5
+PyAudioWPatch==0.2.12.5
